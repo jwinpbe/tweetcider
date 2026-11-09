@@ -1,0 +1,3 @@
+# Type-check the script and the tests with the full preset, not the
+# import-only "basic" default used for unconfigured projects.
+preset = "default"
